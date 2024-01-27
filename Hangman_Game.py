@@ -1,4 +1,4 @@
-#The game takes words from a self created corpus called hangman.txt
+#The game takes words from a self created corpus called Astronomy.txt
 import random
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
