@@ -1,0 +1,441 @@
+<doc id="file30086798" filename="pasted_text.txt" parent_folder="upload">
+star, planet, galaxy, universe, comet, asteroid, meteor, constellation, telescope, observatory, celestial, orbit, solar system, black hole, supernova, nebula, satellite, cosmic, astronomy, astronaut, space, telescope, telescope, meteorite, lunar, extraterrestrial, interstellar, quasar, pulsar, astronomy, stargazing, cosmic, cosmology, astrobiology, astronomical, astrophysics.
+</doc>
+<doc id="file30086842" filename="pasted_text.txt" parent_folder="upload">
+cosmonaut, spacewalk, space shuttle, lunar eclipse, solar eclipse, gravity, dark matter, interplanetary, intergalactic, interstellar, space station, starlight, cosmic rays, heliosphere, exoplanet, light-year, interplanetary, astrolabe, astrophotography, planetarium, rocket, space probe, star cluster, red giant, white dwarf, cosmic dust, event horizon, telescope mirror, celestial mechanics, lunar module, space-time, satellite imagery, space mission, cosmic microwave background, radio telescope, astronomical unit, solar wind, astronautics, cosmogony, astronomical phenomena.
+</doc>
+<doc id="file30086951" filename="pasted_text.txt" parent_folder="upload">
+albedo, Alpha Centauri, aphelion, aperture, apastron, apogee, asterism, asteroid, astronaut, astronomer, astronomical unit, astronomy, axial tilt, azimuth.
+</doc>
+<doc id="file30087006" filename="pasted_text.txt" parent_folder="upload">
+background radiation, big bang theory, binary star, black body, black hole, bolometer.
+</doc>
+<doc id="file30087052" filename="pasted_text.txt" parent_folder="upload">
+celestial, celestial equator, cislunar, cluster, comet, conjunction, constellation, Coriolis force, corona, cosmic rays, cosmology, cosmonaut, cosmos, crater, crescent moon.
+</doc>
+<doc id="file30087113" filename="pasted_text.txt" parent_folder="upload">
+dark matter, day, declination, deep space, Deneb, density, docking, Doppler shift, double star, Drake equation, dust, dwarf
+</doc>
+<doc id="file30087181" filename="pasted_text.txt" parent_folder="upload">
+photography
+uranology
+night sky
+stars
+mythology
+sky
+nasa
+night
+jupiter
+nucleosynthesis
+
+orbiting
+comets
+science fiction
+milky way galaxy
+aurora
+cassini
+ligo
+sciences
+kuiper belt
+gas giant
+meteor
+stellar evolution
+protostar
+radio galaxy
+astrophysicist
+nubians
+gravitational waves
+radio wave
+superior
+retrograde
+nebulous
+nebular
+ascend
+inclination
+superstar
+neuroscience
+psychoanalytic
+rigel
+pollux
+date of reference
+go down
+ephemeris time
+hyleg
+ancient greece
+saros cycle
+</doc>
+<doc id="file30087267" filename="pasted_text.txt" parent_folder="upload">
+cosmochemistry
+
+andromeda galaxy
+
+molecular biology
+
+ultraviolet
+
+globular cluster
+spiral galaxy
+lunar
+</doc>
+<doc id="file30087562" filename="pasted_text.txt" parent_folder="upload">
+ptolemaic system
+constellation
+phenomena
+stargaze
+big bang
+white dwarf
+phase
+hydrogen
+dwarf planet
+meteoroid
+night sky
+uranology
+magnetic field
+outer planet
+hubble
+renaissance
+stargazer
+molecular cloud
+satellite
+astro
+gravity
+calendar
+hipparchus
+planets
+celestial body
+nicolaus copernicus
+galileo galilei
+indian astronomy
+egyptian astronomy
+mathematics
+isaac newton
+biology
+archaeology
+observational astronomy
+planetary
+geology
+archeology
+geodesy
+humanities
+zoology
+physicists
+telescopes
+exoplanet
+photography
+oceanography
+wave
+geoscience
+parallax
+jupiter
+x-ray
+cosmochemistry
+andromeda galaxy
+local group
+
+ultraviolet
+spiral galaxy
+globular cluster
+blazar
+red giant
+gas giant
+stellar evolution
+radio galaxy
+protostar
+big bang nucleosynthesis
+gravitational waves
+astrobiology
+radio wave
+anomaly
+superior
+set
+rise
+retrograde
+nebular
+nebulous
+ascend
+epoch
+direct
+
+inclination
+
+quiet
+
+accretion
+ascension
+egress
+redshift
+immersion
+variation
+ingress
+active
+alignment
+conjunction
+primary
+nucleus
+meteor
+coma
+canal
+asterism
+node
+equinox
+
+culmination
+inferior
+limb
+declination
+
+gamma ray
+nuclear fusion
+ptolemy
+astral
+law
+precession
+astrolabe
+active galactic nuclei
+crops
+europe
+aurora
+uranologist
+periapsis
+barycenter
+uprise
+apoapsis
+selenology
+astrodynamics
+
+emersion
+camera
+maths
+human
+
+map
+heliocentrism
+general relativity
+planetary nebula
+saturn
+
+supernova remnant
+theoretical
+astrogeology
+linguistics
+psychology
+interstellar
+studying
+geography
+nova
+observations
+starlore
+sciences
+spectroscope
+studies
+observatories
+cartography
+astronomers
+literature
+scientific
+observational
+galactic
+temperature
+superstar
+costar
+mass
+starless
+earth's atmosphere
+
+mathematical
+sociological
+philosophy
+
+comparative
+neuroscience
+journalism
+ethnography
+mathematicians
+sociology
+geophysical
+caltech
+starry
+chronology of the universe
+aeronautical
+mineralogy
+
+anthropological
+starcraft
+philology
+biomedical
+recorded history
+studied
+vortex
+egyptology
+aphelion
+starship
+cybernetics
+aesthetics
+eratosthenes
+economics
+institute
+pedagogical
+physiology
+supergiant
+stardom
+doctorate
+sphere
+optics
+physicist
+iranian peoples
+lecturer
+
+university
+geophysics
+experiments
+computational
+stellar
+literary
+phd
+planetoid
+pluto
+ethnology
+light
+aristarchus
+interdisciplinary
+pseudoscience
+stardust
+photonics
+lectures
+majored
+taught
+harvard
+informatics
+resonance
+laboratory
+classical
+scientist
+wavelength
+researches
+psychoanalytic
+theology
+atmospheric
+arts
+instar
+cosmic
+astrophysicist
+faculty
+molecular
+musicology
+nanoscale
+poetics
+patristic
+theoretical astronomy
+wanderstar
+photon
+amplitude
+extragalactic
+amateur astronomy
+asterisk
+extraterrestrial
+nereid
+deneb
+juliet
+ancient greek
+biophysics
+sidereal
+exocomet
+perihelion
+subplanetary
+rigel
+astrology and astronomy
+spica
+starlet
+
+pollux
+electron
+orbital
+interplanetary
+come up
+major planet
+date of reference
+terrestrial time
+right ascension
+go down
+terrestrial dynamical time
+ephemeris time
+mean time
+mean solar time
+absolute magnitude
+hubble law
+kepler
+go under
+copernican system
+natural philosophy
+radio astronomy
+solar physics
+inclination of an orbit
+inferior conjunction
+superior conjunction
+extragalactic nebula
+celestial latitude
+point of apoapsis
+equinoctial point
+vernal equinox
+autumnal equinox
+hour angle
+orbital plane
+red shift
+point of periapsis
+celestial longitude
+
+astronomy and astrophysics
+deimos
+the astrophysical journal
+antistar
+the astronomical journal
+quasistar
+starly
+gastrophysics
+starhood
+infrared
+planetesimal
+photoevaporation
+starfaring
+</doc>
+<doc id="file30087707" filename="pasted_text.txt" parent_folder="upload">
+achondrite
+
+aerolite
+stony meteorite f silicate 
+aerospace
+
+aerosphere
+</doc>
+<doc id="file30087867" filename="pasted_text.txt" parent_folder="upload">
+satellite
+Saturn
+Scorpius
+sea
+selenologist
+selenology
+set
+Seven
+ Sisters
+shooting 
+ solar
+solstice
+star
+stargaze
+stargazer
+stargazing
+starry
+</doc>
+<doc id="file30087894" filename="pasted_text.txt" parent_folder="upload">
+umbra
+Uranus
+Venus
+</doc>
+<doc id="file30087958" filename="pasted_text.txt" parent_folder="upload">
+interstellar
+interstellar dust
+ionosphere
+</doc>
+<doc id="file30088039" filename="pasted_text.txt" parent_folder="upload">
+satellite, Saturn, scientific notation, scintillation, shooting star, sidereal, singularity, sky, solar, solar system, solar wind, solstice, space, space exploration, space station, spectroscope, spectrum, Sputnik, star, starlight, sun, sunspot, superior planet, supernova, synodic, syzygy
+</doc>
